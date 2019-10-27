@@ -1,0 +1,3 @@
+com\imon\Main.class
+com\imon\rest\RestActivator.class
+com\imon\resources\TestResource.class
